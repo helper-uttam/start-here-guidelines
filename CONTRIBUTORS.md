@@ -6,6 +6,8 @@
 
 - [@aryan-121](https://github.com/aryan-121)
 
+- [@Uttam](https://github.com/helper-uttam)
+
 - [@Kiruthi-1312](https://github.com/Kiruthi-1312)
 
 - [@white-hat-master](https://github.com/white-hat-master)
